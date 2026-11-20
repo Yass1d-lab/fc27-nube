@@ -3,12 +3,13 @@ name: FC27 nube
 on:
   # Boton "Run workflow" para probar a mano
   workflow_dispatch:
-  # Martes a jueves, 10:07 a 22:07 hora de Panama, cada 2 h.
-  # GitHub usa hora UTC (Panama = UTC-5), por eso las de 20:07 y 22:07 caen al dia siguiente en UTC.
+  # Todos los dias, cada hora de 10:07 a 22:07 hora de Panama, mas una extra a las 13:20.
+  # GitHub usa hora UTC (Panama = UTC-5): 10:07-18:07 = 15-23 UTC, 19:07-22:07 = 0-3 UTC.
   # GitHub a veces arranca 5-20 min tarde: es normal.
   schedule:
-    - cron: "7 15,17,19,21,23 * * 2,3,4"
-    - cron: "7 1,3 * * 3,4,5"
+    - cron: "7 15-23 * * *"
+    - cron: "7 0-3 * * *"
+    - cron: "20 18 * * *"
 
 concurrency:
   group: fc27
