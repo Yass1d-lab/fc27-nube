@@ -108,7 +108,9 @@ def leer(page, lista):
     return True
 
 def toca_confirmar():
-    """Confirma como mucho cada [confirmar] cada_min minutos (por defecto 110: cada 2 h)."""
+    """Confirma como mucho cada [confirmar] cada_min minutos (por defecto 110: cada 2 h). [confirmar] activo = no la apaga."""
+    if cfg().get("confirmar", "activo", fallback="si").strip().lower() in ("no", "0", "false"):
+        print("Confirmacion apagada en opciones.ini"); return False
     try:
         import json
         f = json.load(open(os.path.join(BASE, "candidatas_confirmadas.json"), encoding="utf-8"))["fecha"]
