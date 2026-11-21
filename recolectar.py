@@ -154,7 +154,12 @@ with sync_playwright() as p:
             except Exception as e: print("Fallo el analisis amplio:", e)
         elif SOLO_CLUB:   # la PC confirma las candidatas que dejo GitHub (desde casa casi nunca bloquean)
             ok_amp = bajar_candidatas()
-        if ok_amp and toca_confirmar():   # pagina de cada carta (solo lectura, 4 s entre paginas)
+        if ok_amp and not toca_confirmar():   # sin confirmar esta hora: se repone el ultimo bloque con su hora
+            try:
+                import confirmar
+                confirmar.reponer_bloque()
+            except Exception as e: print("No pude reponer las confirmadas:", e)
+        elif ok_amp:   # pagina de cada carta (solo lectura, 4 s entre paginas)
             try:
                 import confirmar
                 motivo = confirmar.confirmar(page)

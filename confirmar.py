@@ -66,6 +66,33 @@ def veredicto(c, det, O):
     return base
 
 
+def escribir_bloque(out, n_cand, ahora, O):
+    """Pone el bloque CONFIRMADAS al final de resumen_corto.txt (reemplaza el anterior)."""
+    buenas = [x for x in out if x["ok"]]
+    bloque = [f"{MARCA} ({ahora:%H:%M}; {len(out)} de {n_cand} candidatas, precio ≤ {M(O['precio_max'])}):"]
+    bloque += [x["linea"] for x in sorted(buenas, key=lambda x: -x["ganancia_pct"])]
+    bloque += [x["linea"] for x in out if not x["ok"]]
+    if not out:
+        bloque.append("(ninguna candidata dentro del precio máximo)")
+    try:
+        r = os.path.join(BASE, "resumen_corto.txt")
+        t = open(r, encoding="utf-8").read() if os.path.exists(r) else ""
+        t = t.split(MARCA)[0].rstrip() + "\n"
+        open(r, "w", encoding="utf-8").write(t + "\n".join(bloque) + "\n")
+    except Exception as e:
+        print("No pude añadir las confirmadas a resumen_corto.txt:", e)
+
+
+def reponer_bloque():
+    """Lecturas sin confirmacion (cada 2 h): vuelve a poner en resumen_corto.txt el bloque de la ultima confirmacion, con su hora real."""
+    d = cargar_json(os.path.join(BASE, "candidatas_confirmadas.json"), {})
+    if not d.get("fecha"):
+        return
+    out = d.get("confirmadas", []) + d.get("descartadas", [])
+    escribir_bloque(out, d.get("de_candidatas", 0), datetime.datetime.fromisoformat(d["fecha"]), opciones())
+    print("Bloque de confirmadas repuesto (de las", d["fecha"][11:16] + ")")
+
+
 def confirmar(page, enviar=True):
     """Devuelve None si todo bien, o el motivo del bloqueo (recolectar.py corta solo las confirmaciones)."""
     O = opciones()
@@ -97,18 +124,7 @@ def confirmar(page, enviar=True):
                  {"fecha": ahora.isoformat(timespec="minutes"), "revisadas": len(out), "de_candidatas": len(cand),
                   "precio_max": O["precio_max"], "confirmadas": [x for x in out if x["ok"]], "descartadas": [x for x in out if not x["ok"]]}, indent=1)
     buenas = [x for x in out if x["ok"]]
-    bloque = [f"{MARCA} ({ahora:%H:%M}; {len(out)} de {len(cand)} candidatas, precio ≤ {M(O['precio_max'])}):"]
-    bloque += [x["linea"] for x in sorted(buenas, key=lambda x: -x["ganancia_pct"])]
-    bloque += [x["linea"] for x in out if not x["ok"]]
-    if not out:
-        bloque.append("(ninguna candidata dentro del precio máximo)")
-    try:
-        r = os.path.join(BASE, "resumen_corto.txt")
-        t = open(r, encoding="utf-8").read() if os.path.exists(r) else ""
-        t = t.split(MARCA)[0].rstrip() + "\n"
-        open(r, "w", encoding="utf-8").write(t + "\n".join(bloque) + "\n")
-    except Exception as e:
-        print("No pude añadir las confirmadas a resumen_corto.txt:", e)
+    escribir_bloque(out, len(cand), ahora, O)
     if enviar and buenas:
         try:
             import analizar
