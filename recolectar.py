@@ -4,7 +4,8 @@ despues las paginas 'amp' (listado amplio de jugadores) -> alertas propias por T
 Se detiene si detecta Cloudflare / 429 / 403. No intenta esquivar nada."""
 import datetime, os, re, sys, time
 from playwright.sync_api import sync_playwright
-from comun import BASE, NUBE, telegram, cfg
+from comun import BASE, telegram, cfg
+NUBE = os.environ.get("FC27_NUBE") == "1"   # True en GitHub Actions (sin GG Club)
 
 # Prioridad baja: que el script no te quite rendimiento mientras juegas (Windows; si falla, sigue normal)
 try:
@@ -29,6 +30,11 @@ for linea in open(os.path.join(BASE, "urls.txt"), encoding="utf-8-sig"):
         paginas.append((n.strip(), u.strip()))
 if NUBE:   # en la nube no hay sesion de FUT.GG: GG Club solo se lee desde la PC
     paginas = [p for p in paginas if not p[0].startswith("club") and "gg-club" not in p[1]]
+# Modo solo GG Club (20 nov): el mercado publico lo lee GitHub cada hora; la PC solo lee tu club.
+SOLO_CLUB = (not NUBE) and cfg().get("modo", "solo_club", fallback="no").strip().lower() in ("si", "sí", "1", "true")
+if SOLO_CLUB:
+    paginas = [p for p in paginas if p[0].startswith("club")]
+    print("Modo solo GG Club:", len(paginas), "paginas")
 base = [p for p in paginas if not p[0].startswith("amp")]
 amp = [p for p in paginas if p[0].startswith("amp")]
 
@@ -101,6 +107,34 @@ def leer(page, lista):
         time.sleep(PAUSA)
     return True
 
+def toca_confirmar():
+    """Confirma como mucho cada [confirmar] cada_min minutos (por defecto 110: cada 2 h)."""
+    try:
+        import json
+        f = json.load(open(os.path.join(BASE, "candidatas_confirmadas.json"), encoding="utf-8"))["fecha"]
+        mins = (datetime.datetime.now() - datetime.datetime.fromisoformat(f)).total_seconds() / 60
+        cada = float(cfg().get("confirmar", "cada_min", fallback="110"))
+        if mins < cada:
+            print(f"Confirmacion hecha hace {mins:.0f} min: esta vez no confirmo."); return False
+    except Exception:
+        pass
+    return True
+
+
+def bajar_candidatas():
+    """Modo solo GG Club: baja las candidatas que publico GitHub (rama datos) para confirmarlas desde la PC."""
+    if cfg().get("modo", "confirmar_pc", fallback="no").strip().lower() not in ("si", "sí", "1", "true"):
+        return False
+    url = cfg().get("modo", "candidatas_url", fallback="https://raw.githubusercontent.com/Yass1d-lab/fc27-nube/datos/amplio_candidatas.json").strip()
+    try:
+        import urllib.request
+        datos = urllib.request.urlopen(url, timeout=30).read()
+        open(os.path.join(BASE, "amplio_candidatas.json"), "wb").write(datos)
+        print("Candidatas de GitHub descargadas"); return True
+    except Exception as e:
+        print("No pude bajar las candidatas de GitHub:", e); return False
+
+
 import analizar
 with sync_playwright() as p:
     # ventana = oculta (por defecto, sin ventana de Chrome) | visible. Se cambia en opciones.ini, seccion [ventana], clave modo.
@@ -113,16 +147,21 @@ with sync_playwright() as p:
         try: analizar.main(carpeta)
         except Exception as e:
             telegram(f"⚠️ FC27 script: lei las paginas pero fallo el analisis: {e}"); print("Fallo el analisis:", e)
+        ok_amp = False
         if amp:
             ok_amp = leer(page, amp)
             try: analizar.amplio(carpeta)
             except Exception as e: print("Fallo el analisis amplio:", e)
-            if ok_amp:   # confirma las candidatas en la pagina de cada carta (solo lectura, 4 s entre paginas)
-                try:
-                    import confirmar
-                    motivo = confirmar.confirmar(page)
-                    if motivo: estado["motivo"] = motivo
-                except Exception as e: print("Fallo confirmar:", e)
+        elif SOLO_CLUB:   # la PC confirma las candidatas que dejo GitHub (desde casa casi nunca bloquean)
+            ok_amp = bajar_candidatas()
+        if ok_amp and toca_confirmar():   # pagina de cada carta (solo lectura, 4 s entre paginas)
+            try:
+                import confirmar
+                motivo = confirmar.confirmar(page)
+                if motivo:   # 21 nov: un bloqueo aqui solo corta las confirmaciones; no pausa el resto
+                    print("Confirmacion cortada:", motivo)
+                    telegram(f"⚠️ FC27: FUT.GG bloqueo las confirmaciones ({motivo}). Listas y fodder siguen normales; se reintenta en la proxima confirmacion.")
+            except Exception as e: print("Fallo confirmar:", e)
     ctx.close()
 
 # Limpieza: borra carpetas de datos de mas de 7 dias (los historiales viven en estado.json y amplio.json)

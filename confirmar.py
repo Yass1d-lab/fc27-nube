@@ -3,7 +3,7 @@ Lo llama recolectar.py justo despues del analisis amplio, con la misma pagina de
 Para cada candidata (precio <= precio_max, las de mayor margen primero, maximo max_cartas):
   lee el precio actual y las ~100 ventas reales y calcula la ganancia neta (tras el 5%) a la mediana de venta.
 Salidas: candidatas_confirmadas.json y un bloque 'CONFIRMADAS' al final de resumen_corto.txt.
-Reglas: 4 s entre paginas; si hay Cloudflare/403/429 devuelve el motivo y recolectar.py se detiene 2 h.
+Reglas: 4 s entre paginas; si hay Cloudflare/403/429 devuelve el motivo y se cortan solo las confirmaciones (21 nov).
 No compra, no vende, no pulsa nada. Opciones en config.ini, seccion [confirmar] (todas opcionales):
   max_cartas=30  precio_max=25000  pausa=4  ganancia_min=300  margen_min_pct=4  ventas_min=10"""
 import datetime, json, os, time
@@ -24,7 +24,8 @@ def opciones():
             "pausa": float(g("pausa", "4")), "gan_min": int(g("ganancia_min", "300")),
             "pct_min": float(g("margen_min_pct", "4")), "ventas_min": int(g("ventas_min", "10")),
             "compra": g("compra_realista", "p25"), "recencia_min": int(g("recencia_min", "180")),
-            "dedupe_h": float(g("dedupe_h", "6")), "max_avisos": int(g("max_avisos", "6"))}
+            "dedupe_h": float(g("dedupe_h", "6")), "max_avisos": int(g("max_avisos", "6")),
+            "max_edad_min": float(g("max_edad_min", "30"))}
 
 
 def veredicto(c, det, O):
@@ -66,14 +67,14 @@ def veredicto(c, det, O):
 
 
 def confirmar(page, enviar=True):
-    """Devuelve None si todo bien, o el motivo del bloqueo (recolectar.py lo guarda y se detiene 2 h)."""
+    """Devuelve None si todo bien, o el motivo del bloqueo (recolectar.py corta solo las confirmaciones)."""
     O = opciones()
     ruta = os.path.join(BASE, "amplio_candidatas.json")
     if not os.path.exists(ruta):
         return None
     doc = cargar_json(ruta, {})
     try:
-        if (datetime.datetime.now() - datetime.datetime.fromisoformat(doc["fecha"])).total_seconds() > 1800:
+        if (datetime.datetime.now() - datetime.datetime.fromisoformat(doc["fecha"])).total_seconds() > O["max_edad_min"] * 60:
             print("Candidatas viejas (el analisis amplio no corrio): no confirmo"); return None
     except Exception:
         return None

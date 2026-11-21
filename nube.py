@@ -6,7 +6,7 @@ import os, shutil, sys
 BASE = os.path.dirname(os.path.abspath(__file__))
 CACHE = os.path.join(BASE, "estado_nube")
 SEMILLA = os.path.join(BASE, "semilla")
-ARCHIVOS = ["estado.json", "amplio.json", "confirmadas_avisadas.json", "bloqueo.txt"]
+ARCHIVOS = ["estado.json", "amplio.json", "confirmadas_avisadas.json", "bloqueo.txt", "candidatas_confirmadas.json"]
 
 def copiar(origen, destino):
     n = 0
