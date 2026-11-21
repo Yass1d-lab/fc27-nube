@@ -1,0 +1,658 @@
+{
+ "fecha": "2026-11-21T10:48",
+ "volatilidad_top15": [
+  {
+   "n": "Okou",
+   "r": "68",
+   "t": "Rare",
+   "p": "RM",
+   "pc": 9700,
+   "volatilidad_pct": 111.1,
+   "mediana": 2750
+  },
+  {
+   "n": "Fiamma Benítez",
+   "r": "87",
+   "t": "Thunderstruck",
+   "p": "CM",
+   "pc": 22300,
+   "volatilidad_pct": 110.3,
+   "mediana": 22900
+  },
+  {
+   "n": "Durán",
+   "r": "85",
+   "t": "Star Performer",
+   "p": "ST",
+   "pc": 64000,
+   "volatilidad_pct": 95.3,
+   "mediana": 22400
+  },
+  {
+   "n": "Kahn",
+   "r": "91",
+   "t": "Base Icon",
+   "p": "GK",
+   "pc": 529000,
+   "volatilidad_pct": 94.1,
+   "mediana": 624000
+  },
+  {
+   "n": "Gabriel Silva",
+   "r": "86",
+   "t": "Thunderstruck",
+   "p": "ST",
+   "pc": 17000,
+   "volatilidad_pct": 83.9,
+   "mediana": 18400
+  },
+  {
+   "n": "Maldini",
+   "r": "93",
+   "t": "Base Icon",
+   "p": "CB",
+   "pc": 3100000,
+   "volatilidad_pct": 59.3,
+   "mediana": 3400000
+  },
+  {
+   "n": "Graham Hansen",
+   "r": "90",
+   "t": "Thunderstruck",
+   "p": "CAM",
+   "pc": 791000,
+   "volatilidad_pct": 58.2,
+   "mediana": 964500
+  },
+  {
+   "n": "Rațiu",
+   "r": "85",
+   "t": "Destined for Glory",
+   "p": "RB",
+   "pc": 25000,
+   "volatilidad_pct": 46.8,
+   "mediana": 105500
+  },
+  {
+   "n": "Doué",
+   "r": "87",
+   "t": "Star Performer",
+   "p": "LM",
+   "pc": 2000000,
+   "volatilidad_pct": 44.0,
+   "mediana": 1300000
+  },
+  {
+   "n": "Upamecano",
+   "r": "89",
+   "t": "Destined for Glory",
+   "p": "CB",
+   "pc": 561000,
+   "volatilidad_pct": 42.4,
+   "mediana": 900000
+  },
+  {
+   "n": "Jauregizar",
+   "r": "85",
+   "t": "Destined for Glory",
+   "p": "CDM",
+   "pc": 14500,
+   "volatilidad_pct": 41.7,
+   "mediana": 63500
+  },
+  {
+   "n": "Kökçü",
+   "r": "86",
+   "t": "Destined for Glory",
+   "p": "CM",
+   "pc": 11800,
+   "volatilidad_pct": 40.3,
+   "mediana": 53000
+  },
+  {
+   "n": "Sócrates",
+   "r": "91",
+   "t": "Thunderstruck ICON",
+   "p": "CAM",
+   "pc": 800000,
+   "volatilidad_pct": 40.0,
+   "mediana": 819500
+  },
+  {
+   "n": "Ryerson",
+   "r": "86",
+   "t": "Ultimate Scream",
+   "p": "RB",
+   "pc": 14000,
+   "volatilidad_pct": 39.6,
+   "mediana": 49000
+  },
+  {
+   "n": "Jon Martín",
+   "r": "85",
+   "t": "Future Stars",
+   "p": "CB",
+   "pc": 11500,
+   "volatilidad_pct": 39.4,
+   "mediana": 40750
+  }
+ ],
+ "caida_sostenida_top15": [
+  {
+   "n": "Levels",
+   "r": "86",
+   "t": "Thunderstruck",
+   "p": "LB",
+   "pc": 12300,
+   "caida_4_lecturas_pct": 16.9
+  },
+  {
+   "n": "Nuno Mendes",
+   "r": "89",
+   "t": "Destined for Glory",
+   "p": "LB",
+   "pc": 600000,
+   "caida_4_lecturas_pct": 15.0
+  },
+  {
+   "n": "Rush",
+   "r": "88",
+   "t": "Base Icon",
+   "p": "ST",
+   "pc": 96000,
+   "caida_4_lecturas_pct": 13.5
+  },
+  {
+   "n": "Vidić",
+   "r": "88",
+   "t": "Base Icon",
+   "p": "CB",
+   "pc": 440000,
+   "caida_4_lecturas_pct": 12.0
+  },
+  {
+   "n": "Pirlo",
+   "r": "90",
+   "t": "Base Icon",
+   "p": "CDM",
+   "pc": 380000,
+   "caida_4_lecturas_pct": 10.8
+  },
+  {
+   "n": "Gabriel Silva",
+   "r": "86",
+   "t": "Thunderstruck",
+   "p": "ST",
+   "pc": 17000,
+   "caida_4_lecturas_pct": 10.5
+  },
+  {
+   "n": "Martínez",
+   "r": "85",
+   "t": "Rare",
+   "p": "GK",
+   "pc": 2600,
+   "caida_4_lecturas_pct": 10.3
+  },
+  {
+   "n": "Rafael Leão",
+   "r": "87",
+   "t": "UEFA Champions League RTTK",
+   "p": "ST",
+   "pc": 160000,
+   "caida_4_lecturas_pct": 10.1
+  },
+  {
+   "n": "Drogba",
+   "r": "89",
+   "t": "Base Icon",
+   "p": "ST",
+   "pc": 543000,
+   "caida_4_lecturas_pct": 9.5
+  },
+  {
+   "n": "Wilson",
+   "r": "88",
+   "t": "Rare",
+   "p": "ST",
+   "pc": 12800,
+   "caida_4_lecturas_pct": 8.6
+  },
+  {
+   "n": "Heath",
+   "r": "90",
+   "t": "Base Icon",
+   "p": "RW",
+   "pc": 898000,
+   "caida_4_lecturas_pct": 7.4
+  },
+  {
+   "n": "Georges",
+   "r": "87",
+   "t": "Base Hero",
+   "p": "CB",
+   "pc": 271000,
+   "caida_4_lecturas_pct": 5.9
+  },
+  {
+   "n": "Donnarumma",
+   "r": "89",
+   "t": "Rare",
+   "p": "GK",
+   "pc": 19800,
+   "caida_4_lecturas_pct": 5.7
+  }
+ ],
+ "rebote_top15": [
+  {
+   "n": "McKennie",
+   "r": "85",
+   "t": "Destined for Glory",
+   "p": "CDM",
+   "pc": 18000,
+   "minimo": 17300,
+   "maximo_previo": 65000,
+   "lecturas_desde_minimo": 2
+  },
+  {
+   "n": "Bischof",
+   "r": "86",
+   "t": "Future Stars",
+   "p": "CM",
+   "pc": 13800,
+   "minimo": 13000,
+   "maximo_previo": 47000,
+   "lecturas_desde_minimo": 3
+  },
+  {
+   "n": "Aubameyang",
+   "r": "86",
+   "t": "Destined for Glory",
+   "p": "ST",
+   "pc": 12800,
+   "minimo": 12000,
+   "maximo_previo": 41500,
+   "lecturas_desde_minimo": 3
+  },
+  {
+   "n": "Rui Costa",
+   "r": "87",
+   "t": "Base Hero",
+   "p": "CAM",
+   "pc": 62000,
+   "minimo": 58500,
+   "maximo_previo": 145000,
+   "lecturas_desde_minimo": 2
+  },
+  {
+   "n": "Laudrup",
+   "r": "88",
+   "t": "Base Icon",
+   "p": "CAM",
+   "pc": 139000,
+   "minimo": 132000,
+   "maximo_previo": 308000,
+   "lecturas_desde_minimo": 3
+  },
+  {
+   "n": "Zola",
+   "r": "87",
+   "t": "Base Hero",
+   "p": "ST",
+   "pc": 300000,
+   "minimo": 280000,
+   "maximo_previo": 650000,
+   "lecturas_desde_minimo": 2
+  },
+  {
+   "n": "Owen",
+   "r": "88",
+   "t": "Base Icon",
+   "p": "ST",
+   "pc": 270000,
+   "minimo": 252000,
+   "maximo_previo": 530000,
+   "lecturas_desde_minimo": 3
+  },
+  {
+   "n": "Pichon",
+   "r": "88",
+   "t": "Base Icon",
+   "p": "ST",
+   "pc": 205000,
+   "minimo": 192000,
+   "maximo_previo": 400000,
+   "lecturas_desde_minimo": 3
+  },
+  {
+   "n": "Patri Guijarro",
+   "r": "89",
+   "t": "Team of the week",
+   "p": "CDM",
+   "pc": 905000,
+   "minimo": 875000,
+   "maximo_previo": 1800000,
+   "lecturas_desde_minimo": 2
+  },
+  {
+   "n": "Makaay",
+   "r": "87",
+   "t": "Base Hero",
+   "p": "ST",
+   "pc": 32800,
+   "minimo": 30500,
+   "maximo_previo": 57500,
+   "lecturas_desde_minimo": 2
+  },
+  {
+   "n": "Stam",
+   "r": "88",
+   "t": "Ultimate Scream Hero",
+   "p": "CB",
+   "pc": 1700000,
+   "minimo": 1600000,
+   "maximo_previo": 3000000,
+   "lecturas_desde_minimo": 2
+  },
+  {
+   "n": "Cole",
+   "r": "87",
+   "t": "Base Hero",
+   "p": "RW",
+   "pc": 115000,
+   "minimo": 112000,
+   "maximo_previo": 200000,
+   "lecturas_desde_minimo": 3
+  },
+  {
+   "n": "Carles Puyol",
+   "r": "89",
+   "t": "Base Icon",
+   "p": "CB",
+   "pc": 245000,
+   "minimo": 240000,
+   "maximo_previo": 420000,
+   "lecturas_desde_minimo": 3
+  },
+  {
+   "n": "Cafu",
+   "r": "91",
+   "t": "Base Icon",
+   "p": "RB",
+   "pc": 745000,
+   "minimo": 712000,
+   "maximo_previo": 1100000,
+   "lecturas_desde_minimo": 3
+  },
+  {
+   "n": "Raúl",
+   "r": "90",
+   "t": "Base Icon",
+   "p": "ST",
+   "pc": 525000,
+   "minimo": 519000,
+   "maximo_previo": 800000,
+   "lecturas_desde_minimo": 3
+  }
+ ],
+ "por_rango_precio": [
+  {
+   "rango": "2.000-5.000",
+   "cartas": 69,
+   "volatilidad_media_pct": 15.9
+  },
+  {
+   "rango": "5.000-10.000",
+   "cartas": 56,
+   "volatilidad_media_pct": 11.8
+  },
+  {
+   "rango": "10.000-25.000",
+   "cartas": 272,
+   "volatilidad_media_pct": 11.6
+  },
+  {
+   "rango": "25.000-50.000",
+   "cartas": 73,
+   "volatilidad_media_pct": 17.2
+  },
+  {
+   "rango": "50.000-150.000",
+   "cartas": 79,
+   "volatilidad_media_pct": 20.0
+  }
+ ],
+ "mediana_fodder_por_media": {
+  "80": 650,
+  "81": 650,
+  "82": 700,
+  "83": 700,
+  "84": 950,
+  "85": 2600,
+  "86": 5300,
+  "87": 7350,
+  "88": 12150,
+  "89": 20000,
+  "90": 36300
+ },
+ "precios_raros_fodder": [],
+ "hora_precio_fodder": {
+  "lecturas_por_hora": {
+   "0": 1,
+   "10": 6,
+   "12": 5,
+   "13": 3,
+   "14": 4,
+   "16": 5,
+   "18": 5,
+   "19": 1,
+   "20": 7,
+   "22": 6,
+   "23": 1
+  },
+  "mejor_hora_comprar": 16,
+  "mejor_hora_vender": 12
+ },
+ "promos_nuevas_7d": [
+  {
+   "n": "Fiamma Benítez",
+   "r": "87",
+   "t": "Thunderstruck",
+   "p": "CM",
+   "visto": "2026-11-20",
+   "primer_precio": 75500,
+   "pc": 22300,
+   "cambio_pct": -70.5
+  },
+  {
+   "n": "Graham Hansen",
+   "r": "90",
+   "t": "Thunderstruck",
+   "p": "CAM",
+   "visto": "2026-11-20",
+   "primer_precio": 2400000,
+   "pc": 791000,
+   "cambio_pct": -67.0
+  },
+  {
+   "n": "Gabriel Silva",
+   "r": "86",
+   "t": "Thunderstruck",
+   "p": "ST",
+   "visto": "2026-11-20",
+   "primer_precio": 50500,
+   "pc": 17000,
+   "cambio_pct": -66.3
+  },
+  {
+   "n": "Maldini",
+   "r": "93",
+   "t": "Base Icon",
+   "p": "CB",
+   "visto": "2026-11-16",
+   "primer_precio": 8400000,
+   "pc": 3100000,
+   "cambio_pct": -63.1
+  },
+  {
+   "n": "Carlos Alberto",
+   "r": "91",
+   "t": "Base Icon",
+   "p": "RB",
+   "visto": "2026-11-14",
+   "primer_precio": 3800000,
+   "pc": 1500000,
+   "cambio_pct": -60.5
+  },
+  {
+   "n": "Messi",
+   "r": "90",
+   "t": "Ultimate Scream",
+   "p": "CAM",
+   "visto": "2026-11-13",
+   "primer_precio": 2800000,
+   "pc": 1300000,
+   "cambio_pct": -53.6
+  },
+  {
+   "n": "Sócrates",
+   "r": "91",
+   "t": "Thunderstruck ICON",
+   "p": "CAM",
+   "visto": "2026-11-20",
+   "primer_precio": 1700000,
+   "pc": 800000,
+   "cambio_pct": -52.9
+  },
+  {
+   "n": "Ibañez",
+   "r": "88",
+   "t": "Thunderstruck",
+   "p": "CB",
+   "visto": "2026-11-20",
+   "primer_precio": 140000,
+   "pc": 66500,
+   "cambio_pct": -52.5
+  },
+  {
+   "n": "Ferdinand",
+   "r": "89",
+   "t": "Base Icon",
+   "p": "CB",
+   "visto": "2026-11-13",
+   "primer_precio": 3000000,
+   "pc": 1500000,
+   "cambio_pct": -50.0
+  },
+  {
+   "n": "Levels",
+   "r": "86",
+   "t": "Thunderstruck",
+   "p": "LB",
+   "visto": "2026-11-20",
+   "primer_precio": 24300,
+   "pc": 12300,
+   "cambio_pct": -49.4
+  },
+  {
+   "n": "Le Tissier",
+   "r": "86",
+   "t": "Team of the week",
+   "p": "CB",
+   "visto": "2026-11-19",
+   "primer_precio": 42500,
+   "pc": 22000,
+   "cambio_pct": -48.2
+  },
+  {
+   "n": "Pulisic",
+   "r": "87",
+   "t": "Thunderstruck",
+   "p": "CAM",
+   "visto": "2026-11-20",
+   "primer_precio": 85500,
+   "pc": 47300,
+   "cambio_pct": -44.7
+  },
+  {
+   "n": "Varane",
+   "r": "88",
+   "t": "Base Icon",
+   "p": "CB",
+   "visto": "2026-11-15",
+   "primer_precio": 3000000,
+   "pc": 1900000,
+   "cambio_pct": -36.7
+  },
+  {
+   "n": "Morgan",
+   "r": "91",
+   "t": "Base Icon",
+   "p": "ST",
+   "visto": "2026-11-16",
+   "primer_precio": 3000000,
+   "pc": 1900000,
+   "cambio_pct": -36.7
+  },
+  {
+   "n": "Seger",
+   "r": "92",
+   "t": "Thunderstruck ICON",
+   "p": "CDM",
+   "visto": "2026-11-20",
+   "primer_precio": 1700000,
+   "pc": 1100000,
+   "cambio_pct": -35.3
+  },
+  {
+   "n": "Charlton",
+   "r": "92",
+   "t": "Base Icon",
+   "p": "CAM",
+   "visto": "2026-11-15",
+   "primer_precio": 2900000,
+   "pc": 1900000,
+   "cambio_pct": -34.5
+  },
+  {
+   "n": "Mariona",
+   "r": "90",
+   "t": "Thunderstruck",
+   "p": "CM",
+   "visto": "2026-11-20",
+   "primer_precio": 310000,
+   "pc": 214000,
+   "cambio_pct": -31.0
+  },
+  {
+   "n": "Schlotterbeck",
+   "r": "89",
+   "t": "Thunderstruck",
+   "p": "CB",
+   "visto": "2026-11-20",
+   "primer_precio": 200000,
+   "pc": 143000,
+   "cambio_pct": -28.5
+  },
+  {
+   "n": "Bruno Fernandes",
+   "r": "90",
+   "t": "Thunderstruck",
+   "p": "CM",
+   "visto": "2026-11-20",
+   "primer_precio": 681000,
+   "pc": 490000,
+   "cambio_pct": -28.0
+  },
+  {
+   "n": "Puskás",
+   "r": "92",
+   "t": "Base Icon",
+   "p": "ST",
+   "visto": "2026-11-15",
+   "primer_precio": 2900000,
+   "pc": 2100000,
+   "cambio_pct": -27.6
+  }
+ ]
+}

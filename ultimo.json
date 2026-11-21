@@ -1,0 +1,2862 @@
+{
+ "fecha": "2026-11-21T10:42",
+ "plataforma": "PC",
+ "fuente": "script local (FUT.GG)",
+ "carpeta": "2026-11-21_1039",
+ "fodder": {
+  "84": [
+   {
+    "n": "Rogers",
+    "p": "CM",
+    "pc": 700
+   },
+   {
+    "n": "Oyarzabal",
+    "p": "ST",
+    "pc": 750
+   },
+   {
+    "n": "Anton",
+    "p": "CB",
+    "pc": 800
+   },
+   {
+    "n": "Aleix García",
+    "p": "CDM",
+    "pc": 800
+   },
+   {
+    "n": "Eze",
+    "p": "CAM",
+    "pc": 800
+   }
+  ],
+  "85": [
+   {
+    "n": "Schüller",
+    "p": "ST",
+    "pc": 2400
+   },
+   {
+    "n": "Grimaldo",
+    "p": "CAM",
+    "pc": 2400
+   },
+   {
+    "n": "Undav",
+    "p": "ST",
+    "pc": 2500
+   },
+   {
+    "n": "Ekitiké",
+    "p": "ST",
+    "pc": 2500
+   },
+   {
+    "n": "Walsh",
+    "p": "CDM",
+    "pc": 2500
+   }
+  ],
+  "86": [
+   {
+    "n": "Bruno Guimarães",
+    "p": "CM",
+    "pc": 5000
+   },
+   {
+    "n": "McCabe",
+    "p": "LB",
+    "pc": 5000
+   },
+   {
+    "n": "Bastoni",
+    "p": "CB",
+    "pc": 5000
+   },
+   {
+    "n": "McTominay",
+    "p": "CM",
+    "pc": 5000
+   },
+   {
+    "n": "Fernández",
+    "p": "CDM",
+    "pc": 5000
+   }
+  ],
+  "87": [
+   {
+    "n": "Musiala",
+    "p": "CAM",
+    "pc": 6700
+   },
+   {
+    "n": "Hemp",
+    "p": "LW",
+    "pc": 6800
+   },
+   {
+    "n": "Tah",
+    "p": "CB",
+    "pc": 6900
+   },
+   {
+    "n": "Barella",
+    "p": "CM",
+    "pc": 7000
+   },
+   {
+    "n": "Harder",
+    "p": "ST",
+    "pc": 7000
+   }
+  ],
+  "88": [
+   {
+    "n": "João Neves",
+    "p": "CDM",
+    "pc": 11300
+   },
+   {
+    "n": "Mapi León",
+    "p": "CB",
+    "pc": 11800
+   },
+   {
+    "n": "Hasegawa",
+    "p": "CM",
+    "pc": 11800
+   },
+   {
+    "n": "Kimmich",
+    "p": "CDM",
+    "pc": 12000
+   },
+   {
+    "n": "Bühl",
+    "p": "LM",
+    "pc": 12000
+   }
+  ],
+  "89": [
+   {
+    "n": "Chawinga",
+    "p": "LM",
+    "pc": 18500
+   },
+   {
+    "n": "Gabriel",
+    "p": "CB",
+    "pc": 18800
+   },
+   {
+    "n": "Messi",
+    "p": "CAM",
+    "pc": 19300
+   },
+   {
+    "n": "Mariona",
+    "p": "CM",
+    "pc": 19500
+   },
+   {
+    "n": "Donnarumma",
+    "p": "GK",
+    "pc": 19800
+   }
+  ],
+  "90": [
+   {
+    "n": "Shaw",
+    "p": "ST",
+    "pc": 28300
+   },
+   {
+    "n": "Vitinha",
+    "p": "CDM",
+    "pc": 28800
+   },
+   {
+    "n": "Olise",
+    "p": "CAM",
+    "pc": 30000
+   },
+   {
+    "n": "Courtois",
+    "p": "GK",
+    "pc": 30800
+   },
+   {
+    "n": "Rodri",
+    "p": "CDM",
+    "pc": 30800
+   }
+  ]
+ },
+ "cartas": [
+  {
+   "k": "fb-FutureStars2-27-50600784",
+   "n": "Mainoo",
+   "p": "CDM",
+   "r": 89,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 1400000,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-50415142",
+   "n": "Rayan",
+   "p": "ST",
+   "r": 90,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 717000,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-50606461",
+   "n": "Thompson",
+   "p": "RB",
+   "r": 87,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 12500,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-50601349",
+   "n": "Brown",
+   "p": "LB",
+   "r": 87,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 110000,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-50597687",
+   "n": "Pubill",
+   "p": "CB",
+   "r": 89,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 519000,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-50605774",
+   "n": "Brunner",
+   "p": "ST",
+   "r": 88,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 45300,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-50592947",
+   "n": "Scott",
+   "p": "CDM",
+   "r": 86,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 69000,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-84165253",
+   "n": "Mastantuono",
+   "p": "RM",
+   "r": 88,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 58000,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-50604626",
+   "n": "Hato",
+   "p": "CDM",
+   "r": 85,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 57000,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-50407181",
+   "n": "Alajbegović",
+   "p": "ST",
+   "r": 86,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 12300,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-50598543",
+   "n": "Tresoldi",
+   "p": "ST",
+   "r": 86,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 11800,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-50408698",
+   "n": "Kanjinga",
+   "p": "ST",
+   "r": 85,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 12300,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-50412322",
+   "n": "Dro Fernández",
+   "p": "CDM",
+   "r": 85,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 11500,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-50406911",
+   "n": "Peio Canales",
+   "p": "CM",
+   "r": 85,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 11500,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-FutureStars2-27-50610428",
+   "n": "Jeltsch",
+   "p": "CB",
+   "r": 85,
+   "t": "Promo",
+   "g": "Future Stars2",
+   "pc": 11500,
+   "version": "Future Stars"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50563091",
+   "n": "Dembélé",
+   "p": "ST",
+   "r": 91,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 5000000,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50577478",
+   "n": "Hasegawa",
+   "p": "CDM",
+   "r": 89,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 152000,
+   "version": "UEFA Women's Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50583502",
+   "n": "Pedri",
+   "p": "CDM",
+   "r": 91,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 2400000,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50609867",
+   "n": "Chawinga",
+   "p": "ST",
+   "r": 89,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 905000,
+   "version": "UEFA Women's Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50565310",
+   "n": "Karchaoui",
+   "p": "CDM",
+   "r": 88,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 565000,
+   "version": "UEFA Women's Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-134458812",
+   "n": "Díaz",
+   "p": "LM",
+   "r": 90,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 673000,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-117692883",
+   "n": "Bellingham",
+   "p": "CM",
+   "r": 91,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 1600000,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50573315",
+   "n": "Aitana Bonmatí",
+   "p": "CM",
+   "r": 90,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 705000,
+   "version": "UEFA Women's Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50577752",
+   "n": "Gravenberch",
+   "p": "CDM",
+   "r": 88,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 388000,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50557809",
+   "n": "Marcos Llorente",
+   "p": "CM",
+   "r": 88,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 501000,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50578068",
+   "n": "Doku",
+   "p": "LM",
+   "r": 87,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 317000,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50593491",
+   "n": "Andreia Jacinto",
+   "p": "CDM",
+   "r": 86,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 24800,
+   "version": "UEFA Women's Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-67346247",
+   "n": "Bastoni",
+   "p": "CB",
+   "r": 88,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 217000,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-67350585",
+   "n": "Rafael Leão",
+   "p": "ST",
+   "r": 87,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 171000,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50524153",
+   "n": "Lukaku",
+   "p": "ST",
+   "r": 87,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 32000,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50606786",
+   "n": "Camara",
+   "p": "CDM",
+   "r": 85,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 14500,
+   "version": "UEFA Conference League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50590377",
+   "n": "Gabri Veiga",
+   "p": "CM",
+   "r": 85,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 16300,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50564404",
+   "n": "Tomori",
+   "p": "CB",
+   "r": 86,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 195000,
+   "version": "UEFA Europa League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50611417",
+   "n": "Diogo Travassos",
+   "p": "RB",
+   "r": 85,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 15300,
+   "version": "UEFA Conference League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50586451",
+   "n": "Lammens",
+   "p": "GK",
+   "r": 86,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 46800,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50596584",
+   "n": "Reuteler",
+   "p": "CDM",
+   "r": 86,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 38000,
+   "version": "UEFA Women's Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50605114",
+   "n": "Thompson",
+   "p": "LM",
+   "r": 87,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 42800,
+   "version": "UEFA Women's Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50583127",
+   "n": "De Cuyper",
+   "p": "LB",
+   "r": 86,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 31300,
+   "version": "UEFA Conference League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50597343",
+   "n": "Soulé",
+   "p": "RM",
+   "r": 85,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 20800,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50592698",
+   "n": "Francisco Conceição",
+   "p": "ST",
+   "r": 87,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 57000,
+   "version": "UEFA Europa League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50573144",
+   "n": "Weah",
+   "p": "RB",
+   "r": 85,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 18800,
+   "version": "UEFA Europa League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50558884",
+   "n": "Zambo Anguissa",
+   "p": "CM",
+   "r": 86,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 15500,
+   "version": "UEFA Champions League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50607066",
+   "n": "Taha",
+   "p": "ST",
+   "r": 85,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 12800,
+   "version": "UEFA Conference League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50592052",
+   "n": "Romero",
+   "p": "CB",
+   "r": 85,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 27000,
+   "version": "UEFA Conference League RTTK"
+  },
+  {
+   "k": "fb-RoadToTheKnockout1-27-50539510",
+   "n": "Ginter",
+   "p": "CB",
+   "r": 86,
+   "t": "Promo",
+   "g": "Road To The Knockout1",
+   "pc": 14000,
+   "version": "UEFA Conference League RTTK"
+  },
+  {
+   "k": "fb-TOTW1-27-67374762",
+   "n": "Dumornay",
+   "p": "ST",
+   "r": 89,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 2800000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67386507",
+   "n": "Lamine Yamal",
+   "p": "RM",
+   "r": 91,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 1200000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67355727",
+   "n": "Nmecha",
+   "p": "CDM",
+   "r": 86,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 243000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67377753",
+   "n": "Álvaro Carreras",
+   "p": "LB",
+   "r": 83,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 534000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67329765",
+   "n": "David Raya",
+   "p": "GK",
+   "r": 89,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 290000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67336957",
+   "n": "Thuram",
+   "p": "ST",
+   "r": 86,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 27800,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67373922",
+   "n": "Memeti",
+   "p": "LM",
+   "r": 84,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67336110",
+   "n": "Bronze",
+   "p": "RB",
+   "r": 86,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 15300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67356819",
+   "n": "Stoica",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 14500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67376394",
+   "n": "Brugts",
+   "p": "CM",
+   "r": 85,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 54000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67302212",
+   "n": "Shaqiri",
+   "p": "CAM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 29500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-84137646",
+   "n": "Gabriel Martinelli",
+   "p": "LM",
+   "r": 82,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 14800,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67349089",
+   "n": "Safonov",
+   "p": "GK",
+   "r": 84,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 16300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67379423",
+   "n": "Tiago Santos",
+   "p": "RB",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67371770",
+   "n": "Engelhardt",
+   "p": "CDM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 14500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67382428",
+   "n": "Orban",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67388405",
+   "n": "Koné-Doherty",
+   "p": "LM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67376538",
+   "n": "Amanda Gutierres",
+   "p": "ST",
+   "r": 83,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 14500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67363653",
+   "n": "Mijnans",
+   "p": "CM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67388037",
+   "n": "Mastantuono",
+   "p": "RM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67354218",
+   "n": "Paradela",
+   "p": "CM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67383910",
+   "n": "Damiani",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW1-27-67308779",
+   "n": "Dunk",
+   "p": "CB",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 1",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-84125165",
+   "n": "Haaland",
+   "p": "ST",
+   "r": 92,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 305000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-84122852",
+   "n": "Szoboszlai",
+   "p": "CDM",
+   "r": 87,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 57000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50593381",
+   "n": "Baltimore",
+   "p": "LM",
+   "r": 86,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50569329",
+   "n": "Kubo",
+   "p": "RM",
+   "r": 82,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 13800,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50563584",
+   "n": "White",
+   "p": "RB",
+   "r": 84,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 13800,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-67349502",
+   "n": "Reijnders",
+   "p": "CM",
+   "r": 85,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50596941",
+   "n": "Le Tissier",
+   "p": "CB",
+   "r": 86,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 22000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50542529",
+   "n": "McGinn",
+   "p": "CM",
+   "r": 84,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50611460",
+   "n": "Bethune",
+   "p": "CAM",
+   "r": 85,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50598644",
+   "n": "Cantore",
+   "p": "ST",
+   "r": 83,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50601353",
+   "n": "Scherhant",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50597616",
+   "n": "Caputo",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-67384056",
+   "n": "Vušković",
+   "p": "CB",
+   "r": 83,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 13000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50590139",
+   "n": "Headley",
+   "p": "LB",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50603590",
+   "n": "Ane Azkona",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 13800,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50591047",
+   "n": "Højlund",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50411173",
+   "n": "Svanbäck",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50602435",
+   "n": "Guðjohnsen",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50410330",
+   "n": "Stoldt",
+   "p": "CDM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50608167",
+   "n": "Amani",
+   "p": "CDM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50608975",
+   "n": "Esposito",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50593719",
+   "n": "Ngoy",
+   "p": "CB",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW10-27-50547170",
+   "n": "Schlager",
+   "p": "GK",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 10",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50568937",
+   "n": "Patri Guijarro",
+   "p": "CDM",
+   "r": 89,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 905000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50590628",
+   "n": "Russo",
+   "p": "ST",
+   "r": 89,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 137000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50572365",
+   "n": "Beerensteyn",
+   "p": "ST",
+   "r": 84,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 56000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50544661",
+   "n": "Acheampong",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50536618",
+   "n": "Thauvin",
+   "p": "CAM",
+   "r": 84,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50529429",
+   "n": "Isco",
+   "p": "CAM",
+   "r": 84,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50608900",
+   "n": "Dahl",
+   "p": "LB",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-67363107",
+   "n": "Anderson",
+   "p": "CDM",
+   "r": 85,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 18000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-67341275",
+   "n": "Nkunku",
+   "p": "CAM",
+   "r": 82,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 16500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50595905",
+   "n": "Noslin",
+   "p": "ST",
+   "r": 82,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50589605",
+   "n": "Rente",
+   "p": "CB",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50515359",
+   "n": "Henderson",
+   "p": "CDM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-67330561",
+   "n": "Watkins",
+   "p": "ST",
+   "r": 84,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 15000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50609133",
+   "n": "Chérif",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50571688",
+   "n": "Holse",
+   "p": "CM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50600351",
+   "n": "Cambiaghi",
+   "p": "CAM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50569878",
+   "n": "Campaz",
+   "p": "LM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50562620",
+   "n": "Ba Loua",
+   "p": "LM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50596668",
+   "n": "Kössler",
+   "p": "ST",
+   "r": 81,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50574555",
+   "n": "Reynolds",
+   "p": "RB",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50605487",
+   "n": "Charles",
+   "p": "GK",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50564136",
+   "n": "Romero",
+   "p": "CB",
+   "r": 84,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW5-27-50418277",
+   "n": "André Henrique",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 5",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-67349948",
+   "n": "Díaz",
+   "p": "ST",
+   "r": 89,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 140000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50596897",
+   "n": "James",
+   "p": "LM",
+   "r": 86,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 565000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-67186876",
+   "n": "Diomande",
+   "p": "LM",
+   "r": 85,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 209000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50526413",
+   "n": "Griezmann",
+   "p": "CAM",
+   "r": 85,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 18800,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50570264",
+   "n": "Pedro Neto",
+   "p": "LM",
+   "r": 83,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 141000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-84161109",
+   "n": "Maza",
+   "p": "CAM",
+   "r": 82,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50590753",
+   "n": "Pablo Rodríguez",
+   "p": "CAM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50556019",
+   "n": "Bowen",
+   "p": "ST",
+   "r": 84,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50561790",
+   "n": "Oyarzabal",
+   "p": "ST",
+   "r": 85,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14800,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50610675",
+   "n": "Javi Rodríguez",
+   "p": "RB",
+   "r": 82,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50569584",
+   "n": "Dønnum",
+   "p": "LM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50589132",
+   "n": "Oosting",
+   "p": "CM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50558003",
+   "n": "Bremer",
+   "p": "ST",
+   "r": 82,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50603848",
+   "n": "Cecilia Marcos",
+   "p": "LM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50575294",
+   "n": "Nygren",
+   "p": "CM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50600926",
+   "n": "Gómez",
+   "p": "CDM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50597771",
+   "n": "Provstgaard",
+   "p": "CB",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-67360034",
+   "n": "Sinayoko",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-67386042",
+   "n": "Diakité",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50413058",
+   "n": "Arous",
+   "p": "CB",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50555158",
+   "n": "Mendy",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50600830",
+   "n": "Raimondo",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW6-27-50600919",
+   "n": "Stanković",
+   "p": "GK",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 6",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-84117827",
+   "n": "Mbappé",
+   "p": "ST",
+   "r": 92,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 5200000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50575052",
+   "n": "Stanway",
+   "p": "CDM",
+   "r": 87,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 505000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50580470",
+   "n": "Bühl",
+   "p": "LM",
+   "r": 89,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 56500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50564228",
+   "n": "Gabriel",
+   "p": "CB",
+   "r": 90,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 420000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50563941",
+   "n": "Osimhen",
+   "p": "ST",
+   "r": 86,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 26800,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50555496",
+   "n": "Milinković-Savić",
+   "p": "CM",
+   "r": 85,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14800,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50548002",
+   "n": "Kramarić",
+   "p": "CAM",
+   "r": 83,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50600069",
+   "n": "Tel",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 19000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-67351699",
+   "n": "Balerdi",
+   "p": "CB",
+   "r": 83,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50556849",
+   "n": "Berenguer",
+   "p": "LM",
+   "r": 81,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50611505",
+   "n": "Kone",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50604747",
+   "n": "Vangsgaard",
+   "p": "ST",
+   "r": 82,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50603189",
+   "n": "Vanat",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-67192374",
+   "n": "Lonebu",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50514142",
+   "n": "Muslera",
+   "p": "GK",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50418776",
+   "n": "João Guilherme",
+   "p": "LM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50412102",
+   "n": "Mohya",
+   "p": "CAM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-67368061",
+   "n": "Jackson",
+   "p": "ST",
+   "r": 81,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50567621",
+   "n": "Szymański",
+   "p": "CAM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50593126",
+   "n": "Douvikas",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50596879",
+   "n": "Flint",
+   "p": "CAM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50596532",
+   "n": "Dudek",
+   "p": "CB",
+   "r": 83,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW7-27-50580140",
+   "n": "Hill",
+   "p": "CB",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 7",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50598576",
+   "n": "Rodman",
+   "p": "LM",
+   "r": 88,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 105000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50608827",
+   "n": "Fermín",
+   "p": "CM",
+   "r": 86,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 49500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50540066",
+   "n": "Carrasco",
+   "p": "LM",
+   "r": 84,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50598882",
+   "n": "Kerolin Nicoli",
+   "p": "CAM",
+   "r": 86,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 15000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-84146327",
+   "n": "Rogers",
+   "p": "CM",
+   "r": 85,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 15500,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50575712",
+   "n": "Pelova",
+   "p": "CM",
+   "r": 82,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50589048",
+   "n": "Ayari",
+   "p": "CDM",
+   "r": 81,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50595025",
+   "n": "Abada",
+   "p": "LM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 15000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50601687",
+   "n": "Diego Moreira",
+   "p": "LM",
+   "r": 81,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 17000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50562517",
+   "n": "Unai Simón",
+   "p": "GK",
+   "r": 86,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 15300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-67371727",
+   "n": "Nusa",
+   "p": "LM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14800,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50557157",
+   "n": "Collins",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50600296",
+   "n": "Altunkulak",
+   "p": "ST",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50561288",
+   "n": "Pedersen",
+   "p": "LB",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50584577",
+   "n": "Borja Sainz",
+   "p": "LM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-67183430",
+   "n": "Mbangula",
+   "p": "LM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50567119",
+   "n": "Nowak",
+   "p": "CAM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50585362",
+   "n": "Ballet",
+   "p": "LM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50555337",
+   "n": "Weghorst",
+   "p": "ST",
+   "r": 82,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50570548",
+   "n": "Demirović",
+   "p": "ST",
+   "r": 82,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50401665",
+   "n": "Yassine",
+   "p": "LM",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50590556",
+   "n": "van Hecke",
+   "p": "CB",
+   "r": 83,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 14000,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-TOTW8-27-50604371",
+   "n": "Di Lollo",
+   "p": "CB",
+   "r": 80,
+   "t": "IF",
+   "g": "TOTW 8",
+   "pc": 16300,
+   "version": "Team of the week"
+  },
+  {
+   "k": "fb-UltimateScream-27-100896715",
+   "n": "Raphinha",
+   "p": "CAM",
+   "r": 90,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 3800000,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-67129665",
+   "n": "Cristiano Ronaldo",
+   "p": "ST",
+   "r": 89,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 2900000,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-83891820",
+   "n": "Stam",
+   "p": "CB",
+   "r": 88,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 1700000,
+   "version": "Ultimate Scream Hero"
+  },
+  {
+   "k": "fb-UltimateScream-27-83887281",
+   "n": "Zola",
+   "p": "ST",
+   "r": 89,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 1400000,
+   "version": "Ultimate Scream Hero"
+  },
+  {
+   "k": "fb-UltimateScream-27-50601052",
+   "n": "Salma Paralluelo",
+   "p": "ST",
+   "r": 88,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 1000000,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-50568420",
+   "n": "Szoboszlai",
+   "p": "CDM",
+   "r": 88,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 403000,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-84113342",
+   "n": "Scott",
+   "p": "CDM",
+   "r": 87,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 1500,
+   "version": "Ultimate Scream Hero"
+  },
+  {
+   "k": "fb-UltimateScream-27-67316992",
+   "n": "Çalhanoğlu",
+   "p": "CM",
+   "r": 86,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 29300,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-84067863",
+   "n": "Mandžukić",
+   "p": "ST",
+   "r": 87,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 385000,
+   "version": "Ultimate Scream Hero"
+  },
+  {
+   "k": "fb-UltimateScream-27-50589182",
+   "n": "Palmer",
+   "p": "CAM",
+   "r": 87,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 210000,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-84129107",
+   "n": "Verón",
+   "p": "CM",
+   "r": 87,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 900,
+   "version": "Ultimate Scream Hero"
+  },
+  {
+   "k": "fb-UltimateScream-27-50541147",
+   "n": "Fabinho",
+   "p": "CDM",
+   "r": 87,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 14500,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-50577998",
+   "n": "Le Fée",
+   "p": "CM",
+   "r": 86,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 550,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-50533103",
+   "n": "Kondogbia",
+   "p": "CDM",
+   "r": 86,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 11800,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-84105763",
+   "n": "Tolisso",
+   "p": "CDM",
+   "r": 86,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 17300,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-50599032",
+   "n": "Flint",
+   "p": "CDM",
+   "r": 85,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 11800,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-50551985",
+   "n": "Alonso",
+   "p": "LB",
+   "r": 85,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 11500,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-50593786",
+   "n": "Lukeba",
+   "p": "LB",
+   "r": 85,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 18000,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-67180042",
+   "n": "El Mala",
+   "p": "ST",
+   "r": 85,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 300,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-50603487",
+   "n": "Vobian",
+   "p": "CAM",
+   "r": 86,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 11800,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-50555715",
+   "n": "Tverskov",
+   "p": "CDM",
+   "r": 83,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 50,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream-27-50565158",
+   "n": "Chong",
+   "p": "RM",
+   "r": 85,
+   "t": "Promo",
+   "g": "Ultimate Scream",
+   "pc": 11500,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-84078052",
+   "n": "Ginola",
+   "p": "ST",
+   "r": 90,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 3000000,
+   "version": "Ultimate Scream Hero"
+  },
+  {
+   "k": "fb-UltimateScream2-27-50570701",
+   "n": "Valverde",
+   "p": "CDM",
+   "r": 88,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 711000,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-50489671",
+   "n": "Messi",
+   "p": "CAM",
+   "r": 90,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 1300000,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-50579283",
+   "n": "Kvaratskhelia",
+   "p": "ST",
+   "r": 89,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 910000,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-50568886",
+   "n": "McTominay",
+   "p": "CDM",
+   "r": 88,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 92500,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-84112387",
+   "n": "Laudehr",
+   "p": "CM",
+   "r": 89,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 297000,
+   "version": "Ultimate Scream Hero"
+  },
+  {
+   "k": "fb-UltimateScream2-27-100911123",
+   "n": "Olise",
+   "p": "CAM",
+   "r": 91,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 569000,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-83906855",
+   "n": "Quaresma",
+   "p": "LM",
+   "r": 87,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 434000,
+   "version": "Ultimate Scream Hero"
+  },
+  {
+   "k": "fb-UltimateScream2-27-67373561",
+   "n": "Amoura",
+   "p": "ST",
+   "r": 85,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 11500,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-50598032",
+   "n": "Jónsdóttir",
+   "p": "ST",
+   "r": 86,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 11800,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-50575305",
+   "n": "Garner",
+   "p": "CDM",
+   "r": 86,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 14000,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-50561539",
+   "n": "Ryerson",
+   "p": "RB",
+   "r": 86,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 13500,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-50600588",
+   "n": "Crnogorčević",
+   "p": "RB",
+   "r": 85,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 11500,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-50513106",
+   "n": "Perišić",
+   "p": "CAM",
+   "r": 86,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 11800,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-50571891",
+   "n": "Matheus Cunha",
+   "p": "CAM",
+   "r": 87,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 45500,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-50607435",
+   "n": "Laura Pérez",
+   "p": "ST",
+   "r": 85,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 11500,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-UltimateScream2-27-50582506",
+   "n": "Ciss",
+   "p": "CB",
+   "r": 85,
+   "t": "Promo",
+   "g": "Ultimate Scream2",
+   "pc": 11500,
+   "version": "Ultimate Scream"
+  },
+  {
+   "k": "fb-populares-27-50542758",
+   "n": "Dybala",
+   "p": "CAM",
+   "r": 88,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 341300,
+   "version": "Flashback"
+  },
+  {
+   "k": "fb-populares-27-50596101",
+   "n": "van de Ven",
+   "p": "CB",
+   "r": 87,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 320000,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50603811",
+   "n": "Elena Julve",
+   "p": "RM",
+   "r": 88,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 101000,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50602321",
+   "n": "Zaïre-Emery",
+   "p": "CDM",
+   "r": 89,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 337000,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50574082",
+   "n": "Jones",
+   "p": "CDM",
+   "r": 86,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 34500,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50543846",
+   "n": "Bruno Fernandes",
+   "p": "CM",
+   "r": 90,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 485000,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-67350716",
+   "n": "Diaby",
+   "p": "LM",
+   "r": 86,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 38500,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50559444",
+   "n": "Pulisic",
+   "p": "CAM",
+   "r": 87,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 47300,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50578905",
+   "n": "Ibañez",
+   "p": "CB",
+   "r": 88,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 67500,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-84078270",
+   "n": "Dunga",
+   "p": "CDM",
+   "r": 89,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 382200,
+   "version": "Thunderstruck ICON"
+  },
+  {
+   "k": "fb-populares-27-50579467",
+   "n": "Schlotterbeck",
+   "p": "CB",
+   "r": 89,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 139000,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50568936",
+   "n": "Mariona",
+   "p": "CM",
+   "r": 90,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 200000,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50603742",
+   "n": "Fiamma Benítez",
+   "p": "CM",
+   "r": 87,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 22500,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50590620",
+   "n": "Touré",
+   "p": "CB",
+   "r": 85,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 100,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-67330026",
+   "n": "Batistuta",
+   "p": "ST",
+   "r": 90,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 2300,
+   "version": "Thunderstruck ICON"
+  },
+  {
+   "k": "fb-populares-27-117718155",
+   "n": "Lamine Yamal",
+   "p": "RM",
+   "r": 92,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 2900000,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-67310990",
+   "n": "Kane",
+   "p": "ST",
+   "r": 91,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 890000,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50558750",
+   "n": "Graham Hansen",
+   "p": "CAM",
+   "r": 90,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 793000,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-84161323",
+   "n": "Hamm",
+   "p": "ST",
+   "r": 94,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 8500000,
+   "version": "Thunderstruck ICON"
+  },
+  {
+   "k": "fb-populares-27-84113055",
+   "n": "Seger",
+   "p": "CDM",
+   "r": 92,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 1200000,
+   "version": "Thunderstruck ICON"
+  },
+  {
+   "k": "fb-populares-27-50602780",
+   "n": "Gabriel Silva",
+   "p": "ST",
+   "r": 86,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 18300,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50577285",
+   "n": "Rutter",
+   "p": "CAM",
+   "r": 85,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 250,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-83887168",
+   "n": "Nesta",
+   "p": "CB",
+   "r": 91,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 820000,
+   "version": "Thunderstruck ICON"
+  },
+  {
+   "k": "fb-populares-27-84150468",
+   "n": "Moleiro",
+   "p": "CAM",
+   "r": 85,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 300,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50499143",
+   "n": "Neuer",
+   "p": "GK",
+   "r": 86,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 500,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-84076126",
+   "n": "Sócrates",
+   "p": "CAM",
+   "r": 91,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 799000,
+   "version": "Thunderstruck ICON"
+  },
+  {
+   "k": "fb-populares-27-84112844",
+   "n": "Best",
+   "p": "LM",
+   "r": 92,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 2600000,
+   "version": "Thunderstruck ICON"
+  },
+  {
+   "k": "fb-populares-27-50597057",
+   "n": "Levels",
+   "p": "LB",
+   "r": 86,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 12800,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50592574",
+   "n": "Schade",
+   "p": "ST",
+   "r": 86,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 500,
+   "version": "Thunderstruck"
+  },
+  {
+   "k": "fb-populares-27-50577527",
+   "n": "Weir",
+   "p": "CM",
+   "r": 87,
+   "t": "Popular",
+   "g": "populares",
+   "pc": 750,
+   "version": "Thunderstruck"
+  }
+ ],
+ "transfer_list": [],
+ "fodder_ref": {
+  "84": {
+   "ref": 700,
+   "min": 800,
+   "lecturas": 7,
+   "cambio_pct": 14.3,
+   "rara": false
+  },
+  "85": {
+   "ref": 2400,
+   "min": 2500,
+   "lecturas": 7,
+   "cambio_pct": 4.2,
+   "rara": false
+  },
+  "86": {
+   "ref": 5100,
+   "min": 5000,
+   "lecturas": 7,
+   "cambio_pct": -2.0,
+   "rara": false
+  },
+  "87": {
+   "ref": 7200,
+   "min": 6900,
+   "lecturas": 7,
+   "cambio_pct": -4.2,
+   "rara": false
+  },
+  "88": {
+   "ref": 12500,
+   "min": 11800,
+   "lecturas": 7,
+   "cambio_pct": -5.6,
+   "rara": false
+  },
+  "89": {
+   "ref": 19300,
+   "min": 19300,
+   "lecturas": 7,
+   "cambio_pct": 0.0,
+   "rara": false
+  },
+  "90": {
+   "ref": 29300,
+   "min": 30000,
+   "lecturas": 7,
+   "cambio_pct": 2.4,
+   "rara": false
+  }
+ },
+ "fodder_por_dia": {
+  "84": {
+   "lun": 794,
+   "jue": 966,
+   "vie": 800,
+   "sáb": 762,
+   "dom": 790
+  },
+  "85": {
+   "lun": 2166,
+   "jue": 2833,
+   "vie": 2557,
+   "sáb": 2112,
+   "dom": 2100
+  },
+  "86": {
+   "lun": 4500,
+   "jue": 5766,
+   "vie": 5142,
+   "sáb": 4575,
+   "dom": 4540
+  },
+  "87": {
+   "lun": 6422,
+   "jue": 7833,
+   "vie": 7442,
+   "sáb": 6375,
+   "dom": 6360
+  },
+  "88": {
+   "lun": 10500,
+   "jue": 12766,
+   "vie": 12571,
+   "sáb": 11212,
+   "dom": 10820
+  },
+  "89": {
+   "lun": 16411,
+   "jue": 18766,
+   "vie": 19171,
+   "sáb": 16950,
+   "dom": 16620
+  },
+  "90": {
+   "lun": 25766,
+   "jue": 28100,
+   "vie": 28814,
+   "sáb": 26837,
+   "dom": 26920
+  }
+ },
+ "fodder_fuente": {
+  "84": "FUT.GG",
+  "85": "FUT.GG",
+  "86": "FUT.GG",
+  "87": "FUT.GG",
+  "88": "FUT.GG",
+  "89": "FUT.GG",
+  "90": "FUT.GG",
+  "91": "FUT.GG (pocas)"
+ },
+ "club_sync": null,
+ "tl_leida": false,
+ "club": [],
+ "club_paginas_leidas": 0,
+ "raw_lineas": 337,
+ "tl_cartas": 0,
+ "alertas_script": [
+  "📌 Brunner 88 (ST, Future Stars): 39.000 → 45.300 (+16%)",
+  "📌 Scott 86 (CDM, Future Stars): 61.000 → 69.000 (+13%)",
+  "📌 Mastantuono 88 (RM, Future Stars): 64.500 → 58.000 (-10%)",
+  "📌 Andreia Jacinto 86 (CDM, UEFA Women's Champions League RTTK): 20.300 → 24.800 (+22%)",
+  "📌 Diogo Travassos 85 (RB, UEFA Conference League RTTK): 13.500 → 15.300 (+13%)",
+  "📌 De Cuyper 86 (LB, UEFA Conference League RTTK): 35.300 → 31.300 (-11%)",
+  "📌 Zambo Anguissa 86 (CM, UEFA Champions League RTTK): 17.800 → 15.500 (-13%)",
+  "📌 Romero 85 (CB, UEFA Conference League RTTK): 24.300 → 27.000 (+11%)",
+  "📌 Brugts 85 (CM, Team of the week): 47.000 → 54.000 (+15%)",
+  "📌 Szoboszlai 87 (CDM, Team of the week): 66.500 → 57.000 (-14%)",
+  "📌 Le Tissier 86 (CB, Team of the week): 26.300 → 22.000 (-16%)",
+  "📌 Anderson 85 (CDM, Team of the week): 16.000 → 18.000 (+12%)",
+  "📌 Tel 80 (ST, Team of the week): 23.000 → 19.000 (-17%)",
+  "📌 Fermín 86 (CM, Team of the week): 43.000 → 49.500 (+15%)",
+  "📌 Rogers 85 (CM, Team of the week): 18.500 → 15.500 (-16%)",
+  "📌 Diego Moreira 81 (LM, Team of the week): 15.000 → 17.000 (+13%)",
+  "📌 Kondogbia 86 (CDM, Ultimate Scream): 13.300 → 11.800 (-11%)",
+  "📌 Lukeba 85 (LB, Ultimate Scream): 20.800 → 18.000 (-13%)",
+  "📌 Ibañez 88 (CB, Thunderstruck): 91.000 → 67.500 (-26%)",
+  "📌 Fiamma Benítez 87 (CM, Thunderstruck): 20.000 → 22.500 (+12%)"
+ ],
+ "fecha_epoch": 1795275779,
+ "resumen_diario": "📊 Resumen del día 21/11 (22:07)\nTransfer List: 0 cartas; 0 con precio pagado: pagaste 0, mercado 0, ganancia potencial 0 tras 5%.\nGanancia de hoy: sin dato (la actualiza la revisión de Claude).\nMeta 5M: sin dato de monedas (la actualiza la revisión de Claude)."
+}
