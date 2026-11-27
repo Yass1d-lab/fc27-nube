@@ -1,0 +1,332 @@
+#FB FutureStars2 Promo
+Mainoo|CDM|89|0|548000
+Rayan|ST|90|0|600000
+Thompson|RB|87|0|16800
+Brown|LB|87|0|123000
+Pubill|CB|89|0|550000
+Brunner|ST|88|0|43500
+Scott|CDM|86|0|57000
+Mastantuono|RM|88|0|59000
+Hato|CDM|85|0|26500
+Alajbegović|ST|86|0|13000
+Tresoldi|ST|86|0|12500
+Kanjinga|ST|85|0|13300
+Dro Fernández|CDM|85|0|13300
+Peio Canales|CM|85|0|11500
+Jeltsch|CB|85|0|11500
+#FB RoadToTheKnockout1 Promo
+Dembélé|ST|91|0|3300000
+Hasegawa|CDM|89|0|75500
+Pedri|CDM|91|0|2100000
+Chawinga|ST|89|0|795000
+Karchaoui|CDM|88|0|316000
+Díaz|LM|90|0|645000
+Bellingham|CM|91|0|1700000
+Aitana Bonmatí|CM|90|0|610000
+Gravenberch|CDM|88|0|195000
+Marcos Llorente|CM|88|0|301000
+Doku|LM|87|0|179000
+Andreia Jacinto|CDM|86|0|21300
+Bastoni|CB|88|0|143000
+Rafael Leão|ST|87|0|116000
+Lukaku|ST|87|0|30300
+Camara|CDM|85|0|11800
+Gabri Veiga|CM|85|0|13300
+Tomori|CB|86|0|156000
+Diogo Travassos|RB|85|0|14800
+Lammens|GK|86|0|60000
+Reuteler|CDM|86|0|36500
+Thompson|LM|87|0|35000
+De Cuyper|LB|86|0|35500
+Soulé|RM|85|0|23000
+Francisco Conceição|ST|87|0|67000
+Weah|RB|85|0|16800
+Zambo Anguissa|CM|86|0|14300
+Taha|ST|85|0|14000
+Romero|CB|85|0|20800
+Ginter|CB|86|0|13500
+#FB TOTW1 IF
+Dumornay|ST|89|0|1100000
+Lamine Yamal|RM|91|0|425000
+Nmecha|CDM|86|0|43000
+Álvaro Carreras|LB|83|0|490000
+David Raya|GK|89|0|48300
+Thuram|ST|86|0|17000
+Memeti|LM|84|0|17500
+Bronze|RB|86|0|17000
+Stoica|ST|80|0|19000
+Brugts|CM|85|0|51500
+Shaqiri|CAM|80|0|21000
+Gabriel Martinelli|LM|82|0|17300
+Safonov|GK|84|0|18300
+Tiago Santos|RB|80|0|17500
+Engelhardt|CDM|80|0|18500
+Orban|ST|80|0|17500
+Koné-Doherty|LM|80|0|18000
+Amanda Gutierres|ST|83|0|17300
+Mijnans|CM|80|0|17500
+Mastantuono|RM|80|0|17800
+Paradela|CM|80|0|17500
+Damiani|ST|80|0|17800
+Dunk|CB|80|0|17300
+#FB TOTW11 IF
+Pedri|CDM|91|0|515000
+Rabiot|CDM|86|0|17300
+Malen|ST|84|0|17000
+Galeno|LM|83|0|17000
+Okafor|ST|80|0|16000
+Ngumoha|LM|82|0|48800
+van de Donk|CM|83|0|17000
+Evander|CM|81|0|17000
+DiBernardo|CM|82|0|17000
+Atubolu|GK|81|0|17000
+Zabiri|ST|80|0|17000
+Chávez|LB|80|0|17000
+Lind|ST|80|0|17000
+Vlahović|ST|83|0|17000
+Keukelaar|LM|82|0|17000
+Afonso Moreira|LM|80|0|17000
+Klaassen|CM|80|0|17000
+Jacobo Ramón|CB|80|0|17000
+McBurnie|ST|80|0|17000
+Merentiel|ST|80|0|17000
+Yıldırım|ST|80|0|17000
+Bathmann|RB|80|0|17000
+Coppola|CB|80|0|17000
+#FB TOTW5 IF
+Patri Guijarro|CDM|89|0|391000
+Russo|ST|89|0|26000
+Beerensteyn|ST|84|0|41300
+Acheampong|ST|80|0|18300
+Thauvin|CAM|84|0|18000
+Isco|CAM|84|0|17500
+Dahl|LB|80|0|18500
+Anderson|CDM|85|0|20000
+Nkunku|CAM|82|0|17800
+Noslin|ST|82|0|17000
+Rente|CB|80|0|17800
+Henderson|CDM|80|0|17500
+Watkins|ST|84|0|17300
+Chérif|ST|80|0|17300
+Holse|CM|80|0|17500
+Cambiaghi|CAM|80|0|17000
+Campaz|LM|80|0|17800
+Ba Loua|LM|80|0|17000
+Kössler|ST|81|0|17300
+Reynolds|RB|80|0|17800
+Charles|GK|80|0|18000
+Romero|CB|84|0|18000
+André Henrique|ST|80|0|17800
+#FB TOTW6 IF
+Díaz|ST|89|0|27000
+James|LM|86|0|77500
+Diomande|LM|85|0|228000
+Griezmann|CAM|85|0|18800
+Pedro Neto|LM|83|0|185000
+Maza|CAM|82|0|17800
+Pablo Rodríguez|CAM|80|0|18000
+Bowen|ST|84|0|17500
+Oyarzabal|ST|85|0|17500
+Javi Rodríguez|RB|82|0|17000
+Dønnum|LM|80|0|17500
+Oosting|CM|80|0|18000
+Bremer|ST|82|0|17800
+Cecilia Marcos|LM|80|0|17500
+Nygren|CM|80|0|18500
+Gómez|CDM|80|0|17000
+Provstgaard|CB|80|0|17000
+Sinayoko|ST|80|0|17500
+Diakité|ST|80|0|17000
+Arous|CB|80|0|17500
+Mendy|ST|80|0|17300
+Raimondo|ST|80|0|17800
+Stanković|GK|80|0|17300
+#FB TOTW7 IF
+Mbappé|ST|92|0|3500000
+Stanway|CDM|87|0|70000
+Bühl|LM|89|0|24800
+Gabriel|CB|90|0|74000
+Osimhen|ST|86|0|17000
+Milinković-Savić|CM|85|0|17800
+Kramarić|CAM|83|0|17300
+Tel|ST|80|0|35000
+Balerdi|CB|83|0|17000
+Berenguer|LM|81|0|17000
+Kone|ST|80|0|17500
+Vangsgaard|ST|82|0|17800
+Vanat|ST|80|0|17500
+Lonebu|ST|80|0|17300
+Muslera|GK|80|0|18000
+João Guilherme|LM|80|0|17000
+Mohya|CAM|80|0|17800
+Jackson|ST|81|0|17300
+Szymański|CAM|80|0|17000
+Douvikas|ST|80|0|17500
+Flint|CAM|80|0|18000
+Dudek|CB|83|0|17300
+Hill|CB|80|0|17300
+#FB TOTW8 IF
+Rodman|LM|88|0|19300
+Fermín|CM|86|0|17000
+Carrasco|LM|84|0|17300
+Kerolin Nicoli|CAM|86|0|17000
+Rogers|CM|85|0|17800
+Pelova|CM|82|0|18000
+Ayari|CDM|81|0|17800
+Abada|LM|80|0|18000
+Diego Moreira|LM|81|0|19500
+Unai Simón|GK|86|0|17000
+Nusa|LM|80|0|18800
+Collins|ST|80|0|17500
+Altunkulak|ST|80|0|18000
+Pedersen|LB|80|0|18000
+Borja Sainz|LM|80|0|17000
+Mbangula|LM|80|0|17000
+Nowak|CAM|80|0|17000
+Ballet|LM|80|0|17500
+Weghorst|ST|82|0|17500
+Demirović|ST|82|0|17000
+Yassine|LM|80|0|18000
+van Hecke|CB|83|0|17000
+Di Lollo|CB|80|0|31300
+#FB UltimateScream Promo
+Raphinha|CAM|90|0|3200000
+Cristiano Ronaldo|ST|89|0|2600000
+Scott|CDM|87|0|1500
+Stam|CB|88|0|1600000
+Salma Paralluelo|ST|88|0|1100000
+Zola|ST|89|0|1200000
+Szoboszlai|CDM|88|0|451000
+Çalhanoğlu|CM|86|0|29300
+Mandžukić|ST|87|0|407000
+Palmer|CAM|87|0|199000
+Flint|CDM|85|0|13300
+Le Fée|CM|86|0|550
+Verón|CM|87|0|900
+Tverskov|CDM|83|0|50
+Lukeba|LB|85|0|22000
+Fabinho|CDM|87|0|18300
+Kondogbia|CDM|86|0|12300
+Tolisso|CDM|86|0|18000
+El Mala|ST|85|0|300
+Vobian|LM|86|0|12300
+Alonso|LB|85|0|11800
+Chong|RM|85|0|11500
+#FB UltimateScream2 Promo
+Valverde|CDM|88|0|824000
+Ginola|ST|90|0|2800000
+McTominay|CDM|88|0|153000
+Messi|CAM|90|0|985000
+Kvaratskhelia|ST|89|0|960000
+Laudehr|CM|89|0|284000
+Quaresma|LM|87|0|413000
+Jónsdóttir|ST|86|0|14000
+Ryerson|RB|86|0|41000
+Garner|CDM|86|0|27300
+Amoura|ST|85|0|12300
+Olise|CAM|91|0|620000
+Crnogorčević|RB|85|0|11500
+Perišić|CAM|86|0|12000
+Matheus Cunha|ST|87|0|58000
+Laura Pérez|ST|85|0|15000
+Ciss|CB|85|0|11800
+#FW
+84|Falcone|GK|1000
+84|Engen|CM|1100
+84|Mbeumo|RM|1100
+84|Oyarzabal|ST|1100
+84|Anderson|CDM|1100
+84|Mac Allister|CM|1100
+84|Kamara|CDM|1100
+84|Yamashita|GK|1200
+84|Brugts|CM|1200
+84|Oberdorf|CDM|1200
+85|Dybala|CAM|750
+85|Laimer|CDM|3000
+85|Roord|CM|3000
+85|Rúben Neves|CDM|3000
+85|Fox|RB|3000
+85|Çalhanoğlu|CDM|3100
+85|Swanson|LM|3100
+85|Casparij|RB|3200
+85|Greenwood|CM|3200
+85|Nnadozie|GK|3200
+86|Pau Cubarsí|CB|6100
+86|Dimarco|LB|6200
+86|McTominay|CM|6200
+86|Fernández|CDM|6300
+86|Cucurella|LB|6300
+86|Fabián Ruiz|CDM|6300
+86|Carnesecchi|GK|6400
+86|Isak|ST|6400
+86|Bruno Guimarães|CM|6400
+86|Diogo Costa|GK|6400
+87|Martínez|ST|8300
+87|Harder|ST|8500
+87|Lavelle|CAM|8700
+87|Tah|CB|8700
+87|Saka|RM|8800
+87|Kobel|GK|8900
+87|Ona Batlle|RB|8900
+87|Barella|CM|8900
+87|Miedema|ST|9000
+87|Rúben Dias|CB|9000
+88|Banda|ST|14000
+88|Mapi León|CB|15500
+88|Oblak|GK|15500
+88|Rice|CM|15500
+88|João Neves|CDM|15800
+88|van Dijk|CB|16000
+88|Saliba|CB|16000
+88|Kimmich|CDM|16300
+88|Hasegawa|CM|16300
+88|Wilson|ST|16300
+89|Kvaratskhelia|LW|24300
+89|Donnarumma|GK|24800
+89|Chawinga|LM|25000
+89|Mariona|CM|25000
+89|Messi|CAM|25300
+89|Gabriel|CB|25500
+89|Bruno Fernandes|CAM|25500
+89|Pajor|ST|31300
+89|Pacho|CB|35000
+89|Graham Hansen|RM|51000
+90|Vitinha|CDM|31800
+90|Rodri|CDM|34500
+90|Courtois|GK|34500
+90|Olise|CAM|35800
+90|Shaw|ST|36000
+90|Aitana Bonmatí|CM|42300
+90|Kane|ST|43800
+90|Pedri|CDM|62500
+90|Bellingham|CM|64500
+90|Lamine Yamal|RM|72000
+91|Haaland|ST|55000
+91|Alexia Putellas|CM|273000
+91|Mbappé|ST|2200000
+#POP
+Thuram|87|CDM|0|131500
+Ngumoha|82|LM|0|49500
+Elena Julve|88|RM|0|54000
+Stanway|87|CDM|0|70000
+Hasegawa|89|CDM|0|75500
+Bruno Fernandes|90|CM|0|330000
+Dembélé|90|RW|0|1100000
+van de Ven|87|CB|0|221000
+Zaïre-Emery|89|CDM|0|219000
+Isco|87|CAM|0|104800
+Pedri|91|CDM|0|514000
+Mariona|90|CM|0|123000
+Schlotterbeck|89|CB|0|80000
+Dumornay|88|ST|0|219000
+Rabiot|86|CDM|0|18000
+Mbappé|91|ST|0|2200000
+Pulisic|87|CAM|0|21500
+Ibañez|88|CB|0|44000
+Aitana Bonmatí|90|CM|0|41800
+McTominay|88|CDM|0|153000
+Jones|86|CDM|0|15300
+Malen|84|ST|0|17300
+Kika Nazareth|86|ST|0|99000
+Salma Paralluelo|87|LW|0|35000
+Lamine Yamal|92|RM|0|2300000

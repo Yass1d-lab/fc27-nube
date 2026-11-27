@@ -1,0 +1,676 @@
+{
+ "fecha": "2026-11-26T23:11",
+ "volatilidad_top15": [
+  {
+   "n": "David Raya",
+   "r": "89",
+   "t": "Team of the week",
+   "p": "GK",
+   "pc": 48300,
+   "volatilidad_pct": 267.5,
+   "mediana": 48300
+  },
+  {
+   "n": "Marquinhos",
+   "r": "88",
+   "t": "Team of the week",
+   "p": "CB",
+   "pc": 27300,
+   "volatilidad_pct": 220.0,
+   "mediana": 27300
+  },
+  {
+   "n": "Salah",
+   "r": "88",
+   "t": "Team of the week",
+   "p": "ST",
+   "pc": 24300,
+   "volatilidad_pct": 202.2,
+   "mediana": 27500
+  },
+  {
+   "n": "Nmecha",
+   "r": "86",
+   "t": "Team of the week",
+   "p": "CDM",
+   "pc": 43000,
+   "volatilidad_pct": 161.7,
+   "mediana": 43000
+  },
+  {
+   "n": "Díaz",
+   "r": "89",
+   "t": "Team of the week",
+   "p": "ST",
+   "pc": 29500,
+   "volatilidad_pct": 144.8,
+   "mediana": 33800
+  },
+  {
+   "n": "Russo",
+   "r": "89",
+   "t": "Team of the week",
+   "p": "ST",
+   "pc": 28000,
+   "volatilidad_pct": 131.7,
+   "mediana": 30650
+  },
+  {
+   "n": "Stanway",
+   "r": "87",
+   "t": "Team of the week",
+   "p": "CDM",
+   "pc": 69500,
+   "volatilidad_pct": 123.1,
+   "mediana": 106500
+  },
+  {
+   "n": "Ødegaard",
+   "r": "87",
+   "t": "Team of the week",
+   "p": "CM",
+   "pc": 17300,
+   "volatilidad_pct": 117.0,
+   "mediana": 17400
+  },
+  {
+   "n": "Wirtz",
+   "r": "87",
+   "t": "Team of the week",
+   "p": "CAM",
+   "pc": 20300,
+   "volatilidad_pct": 114.3,
+   "mediana": 30400
+  },
+  {
+   "n": "Donnarumma",
+   "r": "90",
+   "t": "Team of the week",
+   "p": "GK",
+   "pc": 41300,
+   "volatilidad_pct": 113.5,
+   "mediana": 59250
+  },
+  {
+   "n": "Gabriel",
+   "r": "90",
+   "t": "Team of the week",
+   "p": "CB",
+   "pc": 74000,
+   "volatilidad_pct": 105.8,
+   "mediana": 96250
+  },
+  {
+   "n": "Rodman",
+   "r": "88",
+   "t": "Team of the week",
+   "p": "LM",
+   "pc": 16800,
+   "volatilidad_pct": 95.5,
+   "mediana": 27400
+  },
+  {
+   "n": "Pajor",
+   "r": "90",
+   "t": "Team of the week",
+   "p": "ST",
+   "pc": 213000,
+   "volatilidad_pct": 84.5,
+   "mediana": 271000
+  },
+  {
+   "n": "James",
+   "r": "86",
+   "t": "Team of the week",
+   "p": "LM",
+   "pc": 77500,
+   "volatilidad_pct": 80.0,
+   "mediana": 110000
+  },
+  {
+   "n": "Hemp",
+   "r": "88",
+   "t": "Team of the week",
+   "p": "LM",
+   "pc": 17800,
+   "volatilidad_pct": 72.9,
+   "mediana": 18500
+  }
+ ],
+ "caida_sostenida_top15": [
+  {
+   "n": "Zola",
+   "r": "87",
+   "t": "Base Hero",
+   "p": "ST",
+   "pc": 229000,
+   "caida_4_lecturas_pct": 18.8
+  },
+  {
+   "n": "Riquelme",
+   "r": "88",
+   "t": "Base Icon",
+   "p": "CAM",
+   "pc": 116000,
+   "caida_4_lecturas_pct": 17.7
+  },
+  {
+   "n": "Fernando Morientes",
+   "r": "87",
+   "t": "Base Hero",
+   "p": "ST",
+   "pc": 31300,
+   "caida_4_lecturas_pct": 16.5
+  },
+  {
+   "n": "Zé Roberto",
+   "r": "87",
+   "t": "Base Hero",
+   "p": "CM",
+   "pc": 298000,
+   "caida_4_lecturas_pct": 16.5
+  },
+  {
+   "n": "Adeyemi",
+   "r": "82",
+   "t": "Rare",
+   "p": "RM",
+   "pc": 3200,
+   "caida_4_lecturas_pct": 15.8
+  },
+  {
+   "n": "Martínez",
+   "r": "87",
+   "t": "Rare",
+   "p": "ST",
+   "pc": 8300,
+   "caida_4_lecturas_pct": 14.4
+  },
+  {
+   "n": "Sadiki",
+   "r": "85",
+   "t": "Star Performer",
+   "p": "CDM",
+   "pc": 84000,
+   "caida_4_lecturas_pct": 12.5
+  },
+  {
+   "n": "Hakimi",
+   "r": "88",
+   "t": "Rare",
+   "p": "RB",
+   "pc": 35300,
+   "caida_4_lecturas_pct": 11.3
+  },
+  {
+   "n": "Doku",
+   "r": "87",
+   "t": "UEFA Champions League RTTK",
+   "p": "LM",
+   "pc": 179000,
+   "caida_4_lecturas_pct": 10.5
+  },
+  {
+   "n": "Okafor",
+   "r": "80",
+   "t": "Team of the week",
+   "p": "ST",
+   "pc": 16000,
+   "caida_4_lecturas_pct": 10.1
+  },
+  {
+   "n": "Harder",
+   "r": "87",
+   "t": "Rare",
+   "p": "ST",
+   "pc": 8500,
+   "caida_4_lecturas_pct": 9.6
+  },
+  {
+   "n": "Cole",
+   "r": "87",
+   "t": "Base Hero",
+   "p": "RW",
+   "pc": 98000,
+   "caida_4_lecturas_pct": 9.3
+  },
+  {
+   "n": "Cucurella",
+   "r": "86",
+   "t": "Rare",
+   "p": "LB",
+   "pc": 6200,
+   "caida_4_lecturas_pct": 8.8
+  },
+  {
+   "n": "Irene Paredes",
+   "r": "87",
+   "t": "Rare",
+   "p": "CB",
+   "pc": 9100,
+   "caida_4_lecturas_pct": 7.1
+  },
+  {
+   "n": "Vitinha",
+   "r": "90",
+   "t": "Rare",
+   "p": "CDM",
+   "pc": 31800,
+   "caida_4_lecturas_pct": 6.5
+  }
+ ],
+ "rebote_top15": [
+  {
+   "n": "Stanway",
+   "r": "87",
+   "t": "Team of the week",
+   "p": "CDM",
+   "pc": 69500,
+   "minimo": 67000,
+   "maximo_previo": 404000,
+   "lecturas_desde_minimo": 4
+  },
+  {
+   "n": "Ødegaard",
+   "r": "87",
+   "t": "Team of the week",
+   "p": "CM",
+   "pc": 17300,
+   "minimo": 16500,
+   "maximo_previo": 69000,
+   "lecturas_desde_minimo": 3
+  },
+  {
+   "n": "Semenyo",
+   "r": "86",
+   "t": "Team of the week",
+   "p": "LM",
+   "pc": 17000,
+   "minimo": 16500,
+   "maximo_previo": 47000,
+   "lecturas_desde_minimo": 4
+  },
+  {
+   "n": "Fermín",
+   "r": "86",
+   "t": "Team of the week",
+   "p": "CM",
+   "pc": 17000,
+   "minimo": 16800,
+   "maximo_previo": 43800,
+   "lecturas_desde_minimo": 2
+  },
+  {
+   "n": "Chawinga",
+   "r": "90",
+   "t": "Team of the week",
+   "p": "LM",
+   "pc": 37300,
+   "minimo": 34800,
+   "maximo_previo": 89000,
+   "lecturas_desde_minimo": 3
+  },
+  {
+   "n": "Gyökeres",
+   "r": "87",
+   "t": "Team of the week",
+   "p": "ST",
+   "pc": 17000,
+   "minimo": 16500,
+   "maximo_previo": 40500,
+   "lecturas_desde_minimo": 4
+  },
+  {
+   "n": "Raphinha",
+   "r": "89",
+   "t": "Team of the week",
+   "p": "ST",
+   "pc": 664000,
+   "minimo": 618000,
+   "maximo_previo": 1300000,
+   "lecturas_desde_minimo": 4
+  },
+  {
+   "n": "Modrić",
+   "r": "86",
+   "t": "Team of the week",
+   "p": "CDM",
+   "pc": 17000,
+   "minimo": 16000,
+   "maximo_previo": 31500,
+   "lecturas_desde_minimo": 5
+  },
+  {
+   "n": "Thuram",
+   "r": "86",
+   "t": "Team of the week",
+   "p": "ST",
+   "pc": 17000,
+   "minimo": 16000,
+   "maximo_previo": 26800,
+   "lecturas_desde_minimo": 5
+  },
+  {
+   "n": "Elena Julve",
+   "r": "88",
+   "t": "Thunderstruck",
+   "p": "RM",
+   "pc": 57000,
+   "minimo": 53000,
+   "maximo_previo": 83000,
+   "lecturas_desde_minimo": 5
+  },
+  {
+   "n": "De Bruyne",
+   "r": "86",
+   "t": "Team of the week",
+   "p": "CM",
+   "pc": 17000,
+   "minimo": 16500,
+   "maximo_previo": 24000,
+   "lecturas_desde_minimo": 4
+  },
+  {
+   "n": "Mandžukić",
+   "r": "86",
+   "t": "Base Hero",
+   "p": "ST",
+   "pc": 18800,
+   "minimo": 18300,
+   "maximo_previo": 25500,
+   "lecturas_desde_minimo": 2
+  },
+  {
+   "n": "Al Jaber",
+   "r": "86",
+   "t": "Base Hero",
+   "p": "ST",
+   "pc": 22800,
+   "minimo": 22500,
+   "maximo_previo": 30300,
+   "lecturas_desde_minimo": 2
+  },
+  {
+   "n": "Le Tissier",
+   "r": "86",
+   "t": "Team of the week",
+   "p": "CB",
+   "pc": 17000,
+   "minimo": 16300,
+   "maximo_previo": 21500,
+   "lecturas_desde_minimo": 5
+  },
+  {
+   "n": "Shaw",
+   "r": "91",
+   "t": "Team of the week",
+   "p": "ST",
+   "pc": 49800,
+   "minimo": 47300,
+   "maximo_previo": 61500,
+   "lecturas_desde_minimo": 6
+  }
+ ],
+ "por_rango_precio": [
+  {
+   "rango": "2.000-5.000",
+   "cartas": 69,
+   "volatilidad_media_pct": 6.5
+  },
+  {
+   "rango": "5.000-10.000",
+   "cartas": 55,
+   "volatilidad_media_pct": 5.1
+  },
+  {
+   "rango": "10.000-25.000",
+   "cartas": 298,
+   "volatilidad_media_pct": 7.3
+  },
+  {
+   "rango": "25.000-50.000",
+   "cartas": 84,
+   "volatilidad_media_pct": 20.0
+  },
+  {
+   "rango": "50.000-150.000",
+   "cartas": 81,
+   "volatilidad_media_pct": 13.3
+  }
+ ],
+ "mediana_fodder_por_media": {
+  "80": 650,
+  "81": 650,
+  "82": 700,
+  "83": 700,
+  "84": 1200,
+  "85": 3400,
+  "86": 6500,
+  "87": 9300,
+  "88": 16300,
+  "89": 25500,
+  "90": 42300
+ },
+ "precios_raros_fodder": [],
+ "hora_precio_fodder": {
+  "lecturas_por_hora": {
+   "0": 1,
+   "10": 6,
+   "11": 3,
+   "12": 5,
+   "13": 3,
+   "14": 7,
+   "16": 5,
+   "17": 3,
+   "18": 5,
+   "19": 1,
+   "20": 10,
+   "22": 6,
+   "23": 4
+  },
+  "mejor_hora_comprar": 23,
+  "mejor_hora_vender": 12
+ },
+ "promos_nuevas_7d": [
+  {
+   "n": "Szoboszlai",
+   "r": "87",
+   "t": "Team of the week",
+   "p": "CDM",
+   "visto": "2026-11-19",
+   "primer_precio": 72000,
+   "pc": 23500,
+   "cambio_pct": -67.4
+  },
+  {
+   "n": "Rabiot",
+   "r": "86",
+   "t": "Team of the week",
+   "p": "CDM",
+   "visto": "2026-11-25",
+   "primer_precio": 49500,
+   "pc": 17300,
+   "cambio_pct": -65.1
+  },
+  {
+   "n": "Okafor",
+   "r": "80",
+   "t": "Team of the week",
+   "p": "ST",
+   "visto": "2026-11-25",
+   "primer_precio": 41000,
+   "pc": 16000,
+   "cambio_pct": -61.0
+  },
+  {
+   "n": "Pedri",
+   "r": "91",
+   "t": "Team of the week",
+   "p": "CDM",
+   "visto": "2026-11-25",
+   "primer_precio": 1300000,
+   "pc": 515000,
+   "cambio_pct": -60.4
+  },
+  {
+   "n": "Ngumoha",
+   "r": "82",
+   "t": "Team of the week",
+   "p": "LM",
+   "visto": "2026-11-25",
+   "primer_precio": 120000,
+   "pc": 48800,
+   "cambio_pct": -59.3
+  },
+  {
+   "n": "Haaland",
+   "r": "92",
+   "t": "Team of the week",
+   "p": "ST",
+   "visto": "2026-11-19",
+   "primer_precio": 283000,
+   "pc": 127000,
+   "cambio_pct": -55.1
+  },
+  {
+   "n": "Malen",
+   "r": "84",
+   "t": "Team of the week",
+   "p": "ST",
+   "visto": "2026-11-25",
+   "primer_precio": 34000,
+   "pc": 17000,
+   "cambio_pct": -50.0
+  },
+  {
+   "n": "Hamm",
+   "r": "94",
+   "t": "Thunderstruck ICON",
+   "p": "ST",
+   "visto": "2026-11-20",
+   "primer_precio": 8500000,
+   "pc": 5800000,
+   "cambio_pct": -31.8
+  },
+  {
+   "n": "Elena Julve",
+   "r": "88",
+   "t": "Thunderstruck",
+   "p": "RM",
+   "visto": "2026-11-20",
+   "primer_precio": 74000,
+   "pc": 57000,
+   "cambio_pct": -23.0
+  },
+  {
+   "n": "Le Tissier",
+   "r": "86",
+   "t": "Team of the week",
+   "p": "CB",
+   "visto": "2026-11-19",
+   "primer_precio": 21500,
+   "pc": 17000,
+   "cambio_pct": -20.9
+  },
+  {
+   "n": "Pulisic",
+   "r": "87",
+   "t": "Thunderstruck",
+   "p": "CAM",
+   "visto": "2026-11-20",
+   "primer_precio": 26300,
+   "pc": 20800,
+   "cambio_pct": -20.9
+  },
+  {
+   "n": "Ronaldinho",
+   "r": "93",
+   "t": "Base Icon",
+   "p": "LW",
+   "visto": "2026-11-20",
+   "primer_precio": 5800000,
+   "pc": 4900000,
+   "cambio_pct": -15.5
+  },
+  {
+   "n": "Jones",
+   "r": "86",
+   "t": "Thunderstruck",
+   "p": "CDM",
+   "visto": "2026-11-20",
+   "primer_precio": 18000,
+   "pc": 15300,
+   "cambio_pct": -15.0
+  },
+  {
+   "n": "Zidane",
+   "r": "94",
+   "t": "Base Icon",
+   "p": "CAM",
+   "visto": "2026-11-20",
+   "primer_precio": 3500000,
+   "pc": 3000000,
+   "cambio_pct": -14.3
+  },
+  {
+   "n": "Pedri",
+   "r": "91",
+   "t": "UEFA Champions League RTTK",
+   "p": "CDM",
+   "visto": "2026-11-20",
+   "primer_precio": 2400000,
+   "pc": 2100000,
+   "cambio_pct": -12.5
+  },
+  {
+   "n": "Gabriel Silva",
+   "r": "86",
+   "t": "Thunderstruck",
+   "p": "ST",
+   "visto": "2026-11-20",
+   "primer_precio": 13300,
+   "pc": 11800,
+   "cambio_pct": -11.3
+  },
+  {
+   "n": "Schlotterbeck",
+   "r": "89",
+   "t": "Thunderstruck",
+   "p": "CB",
+   "visto": "2026-11-20",
+   "primer_precio": 83500,
+   "pc": 75000,
+   "cambio_pct": -10.2
+  },
+  {
+   "n": "Ibañez",
+   "r": "88",
+   "t": "Thunderstruck",
+   "p": "CB",
+   "visto": "2026-11-20",
+   "primer_precio": 46500,
+   "pc": 42000,
+   "cambio_pct": -9.7
+  },
+  {
+   "n": "Mariona",
+   "r": "90",
+   "t": "Thunderstruck",
+   "p": "CM",
+   "visto": "2026-11-20",
+   "primer_precio": 135000,
+   "pc": 122000,
+   "cambio_pct": -9.6
+  },
+  {
+   "n": "Henry",
+   "r": "91",
+   "t": "Base Icon",
+   "p": "ST",
+   "visto": "2026-11-20",
+   "primer_precio": 3300000,
+   "pc": 3000000,
+   "cambio_pct": -9.1
+  }
+ ]
+}
